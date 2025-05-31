@@ -423,6 +423,10 @@
   "ObjectSpawner_label": "Générateur d'Objets",
   "VehicleSpawner_label": "Générateur de Véhicules",
   "spoonerhelp_label": "Déplacez et modifiez des entités librement. Utilisez le Object Mover !",
-  "PedSpawner_label": "Générateur de Peds"
+  "PedSpawner_label": "Générateur de Peds",
+  "buisnesses_label": "Entreprises",
+  "general_label": "Général",
+  "businesssafe_label": "Coffre de l’entreprise",
+  "claimsafeearnings_label": "Encaisser les gains du coffre"
 
 }

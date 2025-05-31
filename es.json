@@ -423,7 +423,11 @@
   "ObjectSpawner_label": "Generador de Objetos",
   "VehicleSpawner_label": "Generador de Vehículos",
   "spoonerhelp_label": "Mueve y edita objetos libremente. ¡Usa el Object Mover!",
-  "PedSpawner_label": "Generador de Peds"
+  "PedSpawner_label": "Generador de Peds",
+  "buisnesses_label": "Negocios",
+  "general_label": "General",
+  "businesssafe_label": "Caja fuerte del negocio",
+  "claimsafeearnings_label": "Cobrar ganancias de la caja fuerte"
 
 
 }

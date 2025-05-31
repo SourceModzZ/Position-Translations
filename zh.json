@@ -423,7 +423,9 @@
   "ObjectSpawner_label": "物体生成器",
   "VehicleSpawner_label": "载具生成器",
   "spoonerhelp_label": "自由移动和编辑实体。请使用对象移动器！",
-  "PedSpawner_label": "行人生成器"
-
-
+  "PedSpawner_label": "行人生成器",
+  "buisnesses_label": "企业",
+  "general_label": "通用",
+  "businesssafe_label": "企业保险箱",
+  "claimsafeearnings_label": "领取保险箱收益"
 }

@@ -424,5 +424,9 @@
   "ObjectSpawner_label": "Object Spawner",
   "VehicleSpawner_label": "Vehicle Spawner",
   "spoonerhelp_label": "Move and edit entities freely. Use the Object Mover!",
-  "PedSpawner_label": "Ped Spawner"
+  "PedSpawner_label": "Ped Spawner",
+  "buisnesses_label": "Businesses",
+  "general_label": "General",
+  "businesssafe_label": "Business Safe",
+  "claimsafeearnings_label": "Claim Safe Earnings"
 }

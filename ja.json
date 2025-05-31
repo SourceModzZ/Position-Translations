@@ -423,6 +423,10 @@
   "ObjectSpawner_label": "オブジェクトスポナー",
   "VehicleSpawner_label": "ビークルスポナー",
   "spoonerhelp_label": "オブジェクトを自由に移動・編集できます。Object Moverを使おう！",
-  "PedSpawner_label": "ペドスポナー"
+  "PedSpawner_label": "ペドスポナー",
+  "buisnesses_label": "ビジネス",
+  "general_label": "一般",
+  "businesssafe_label": "ビジネス金庫",
+  "claimsafeearnings_label": "金庫の収益を受け取る"
 
 }
