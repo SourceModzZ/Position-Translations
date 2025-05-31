@@ -427,5 +427,8 @@
   "buisnesses_label": "企业",
   "general_label": "通用",
   "businesssafe_label": "企业保险箱",
-  "claimsafeearnings_label": "领取保险箱收益"
+  "claimsafeearnings_label": "领取保险箱收益",
+  "Tools_label": "工具",
+  "Ammu-Nation_label": "军火店",
+  "CustomWeapons_label": "自定义武器"
 }

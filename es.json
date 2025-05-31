@@ -427,7 +427,8 @@
   "buisnesses_label": "Negocios",
   "general_label": "General",
   "businesssafe_label": "Caja fuerte del negocio",
-  "claimsafeearnings_label": "Cobrar ganancias de la caja fuerte"
-
-
+  "claimsafeearnings_label": "Cobrar ganancias de la caja fuerte",
+  "Tools_label": "Herramientas",
+  "Ammu-Nation_label": "Ammu-Nation",
+  "CustomWeapons_label": "Armas personalizadas"
 }

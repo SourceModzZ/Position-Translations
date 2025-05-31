@@ -427,5 +427,8 @@
   "buisnesses_label": "Unternehmen",
   "general_label": "Allgemein",
   "businesssafe_label": "Tresor des Unternehmens",
-  "claimsafeearnings_label": "Tresoreinnahmen abholen"
+  "claimsafeearnings_label": "Tresoreinnahmen abholen",
+  "Tools_label": "Werkzeuge",
+  "Ammu-Nation_label": "Ammu-Nation",
+  "CustomWeapons_label": "Benutzerdefinierte Waffen"
 }

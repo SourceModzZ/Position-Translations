@@ -427,6 +427,8 @@
   "buisnesses_label": "Entreprises",
   "general_label": "Général",
   "businesssafe_label": "Coffre de l’entreprise",
-  "claimsafeearnings_label": "Encaisser les gains du coffre"
-
+  "claimsafeearnings_label": "Encaisser les gains du coffre",
+  "Tools_label": "Outils",
+  "Ammu-Nation_label": "Ammu-Nation",
+  "CustomWeapons_label": "Armes personnalisées"
 }
