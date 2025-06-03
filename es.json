@@ -430,5 +430,19 @@
   "claimsafeearnings_label": "Cobrar ganancias de la caja fuerte",
   "Tools_label": "Herramientas",
   "Ammu-Nation_label": "Ammu-Nation",
-  "CustomWeapons_label": "Armas personalizadas"
+  "CustomWeapons_label": "Armas personalizadas",
+  "infspecial_label": "Habilidad especial infinita",
+  "allowweaponsininteriors_label": "Permitir armas en interiores",
+  "silentsteps_label": "Pasos silenciosos",
+  "endlessstamina_label": "Resistencia infinita",
+  "infiniterange_label": "Alcance infinito",
+  "vehacrobaticgroup_label": "Acrobacias con vehículos",
+  "autoflip_label": "Volteo automático",
+  "autoloopnearby_label": "Bucle automático cercano",
+  "vehparachute_label": "Paracaídas para vehículo",
+  "vehflipselect_label": "Seleccionar giro de vehículo",
+  "performvehflip_label": "Realizar giro de vehículo",
+  "liveroadblocker_label": "Bloqueo de carretera en vivo",
+  "parachuterain_label": "Lluvia de paracaídas",
+  "revealplayers_label": "Revelar jugadores"
 }

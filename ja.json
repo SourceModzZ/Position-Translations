@@ -430,5 +430,19 @@
   "claimsafeearnings_label": "金庫の収益を受け取る",
   "Tools_label": "ツール",
   "Ammu-Nation_label": "アミュネーション",
-  "CustomWeapons_label": "カスタム武器"
+  "CustomWeapons_label": "カスタム武器",
+  "infspecial_label": "無限スペシャル能力",
+  "allowweaponsininteriors_label": "屋内で武器を許可",
+  "silentsteps_label": "静かな足音",
+  "endlessstamina_label": "無限スタミナ",
+  "infiniterange_label": "無限射程",
+  "vehacrobaticgroup_label": "車両アクロバット",
+  "autoflip_label": "自動反転",
+  "autoloopnearby_label": "近くで自動ループ",
+  "vehparachute_label": "車両用パラシュート",
+  "vehflipselect_label": "車両反転選択",
+  "performvehflip_label": "車両反転実行",
+  "liveroadblocker_label": "ライブ道路封鎖",
+  "parachuterain_label": "パラシュートの雨",
+  "revealplayers_label": "プレイヤーを表示"
 }

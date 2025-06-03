@@ -431,5 +431,19 @@
   "claimsafeearnings_label": "Claim Safe Earnings",
   "Tools_label": "Tools",
   "Ammu-Nation_label": "Ammu-Nation",
-  "CustomWeapons_label": "Custom Weapons"
+  "CustomWeapons_label": "Custom Weapons",
+  "infspecial_label": "Infinite Special Ability",
+  "allowweaponsininteriors_label": "Allow Weapons Indoors",
+  "silentsteps_label": "Silent Steps",
+  "endlessstamina_label": "Endless Stamina",
+  "infiniterange_label": "Infinite Range",
+  "vehacrobaticgroup_label": "Vehicle Acrobatics",
+  "autoflip_label": "Auto Flip",
+  "autoloopnearby_label": "Auto Loop Nearby",
+  "vehparachute_label": "Vehicle Parachute",
+  "vehflipselect_label": "Vehicle Flip Select",
+  "performvehflip_label": "Perform Vehicle Flip",
+  "liveroadblocker_label": "Live Road Blocker",
+  "parachuterain_label": "Parachute Rain",
+  "revealplayers_label": "Reveal Players"
 }

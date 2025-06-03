@@ -430,5 +430,19 @@
   "claimsafeearnings_label": "Tresoreinnahmen abholen",
   "Tools_label": "Werkzeuge",
   "Ammu-Nation_label": "Ammu-Nation",
-  "CustomWeapons_label": "Benutzerdefinierte Waffen"
+  "CustomWeapons_label": "Benutzerdefinierte Waffen",
+  "infspecial_label": "Unendliche Spezialfähigkeit",
+  "allowweaponsininteriors_label": "Waffen in Innenräumen erlauben",
+  "silentsteps_label": "Lautlose Schritte",
+  "endlessstamina_label": "Endlose Ausdauer",
+  "infiniterange_label": "Unendliche Reichweite",
+  "vehacrobaticgroup_label": "Fahrzeug-Akrobatik",
+  "autoflip_label": "Auto automatisch wenden",
+  "autoloopnearby_label": "Automatisch in der Nähe loopen",
+  "vehparachute_label": "Fahrzeugfallschirm",
+  "vehflipselect_label": "Fahrzeug-Flip-Auswahl",
+  "performvehflip_label": "Fahrzeug-Flip ausführen",
+  "liveroadblocker_label": "Straßensperre aktivieren",
+  "parachuterain_label": "Fallschirmregen",
+  "revealplayers_label": "Spieler aufdecken"
 }

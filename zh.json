@@ -430,5 +430,19 @@
   "claimsafeearnings_label": "领取保险箱收益",
   "Tools_label": "工具",
   "Ammu-Nation_label": "军火店",
-  "CustomWeapons_label": "自定义武器"
+  "CustomWeapons_label": "自定义武器",
+  "infspecial_label": "无限特殊能力",
+  "allowweaponsininteriors_label": "允许在室内使用武器",
+  "silentsteps_label": "无声脚步",
+  "endlessstamina_label": "无限耐力",
+  "infiniterange_label": "无限射程",
+  "vehacrobaticgroup_label": "载具特技",
+  "autoflip_label": "自动翻转",
+  "autoloopnearby_label": "自动循环附近区域",
+  "vehparachute_label": "载具降落伞",
+  "vehflipselect_label": "选择载具翻转",
+  "performvehflip_label": "执行载具翻转",
+  "liveroadblocker_label": "实时路障",
+  "parachuterain_label": "降落伞雨",
+  "revealplayers_label": "显示玩家"
 }
