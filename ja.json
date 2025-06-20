@@ -532,5 +532,7 @@
   "bypasscasinobans_label": "カジノの出禁を回避",
   "alwaysspinluckywheel_label": "常にルーレットを回す",
   "luckywheelprize_label": "ラッキールーレットの賞品",
-  "applyluckywheelprize_label": "ラッキー賞品を適用"
+  "applyluckywheelprize_label": "ラッキー賞品を適用",
+  "OverrideCASHMultiplier_label": "CASH乗数を上書き",
+  "cashmultiplierinput_label": "CASH乗数の入力"
 }

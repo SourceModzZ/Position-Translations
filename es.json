@@ -532,5 +532,7 @@
   "bypasscasinobans_label": "Evitar bloqueos del casino",
   "alwaysspinluckywheel_label": "Siempre girar la ruleta",
   "luckywheelprize_label": "Premio de la ruleta",
-  "applyluckywheelprize_label": "Aplicar premio de la ruleta"
+  "applyluckywheelprize_label": "Aplicar premio de la ruleta",
+  "OverrideCASHMultiplier_label": "Sobrescribir multiplicador de CASH",
+  "cashmultiplierinput_label": "Entrada del multiplicador de CASH"
 }

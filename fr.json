@@ -532,5 +532,7 @@
   "bypasscasinobans_label": "Contourner les bannissements de casino",
   "alwaysspinluckywheel_label": "Toujours faire tourner la roue",
   "luckywheelprize_label": "Prix de la roue de la fortune",
-  "applyluckywheelprize_label": "Appliquer le prix de la roue"
+  "applyluckywheelprize_label": "Appliquer le prix de la roue",
+  "OverrideCASHMultiplier_label": "Remplacer le multiplicateur de CASH",
+  "cashmultiplierinput_label": "Entrée du multiplicateur de CASH"
 }

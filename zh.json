@@ -532,5 +532,7 @@
   "bypasscasinobans_label": "绕过赌场封禁",
   "alwaysspinluckywheel_label": "始终旋转幸运轮盘",
   "luckywheelprize_label": "幸运轮盘奖品",
-  "applyluckywheelprize_label": "应用幸运轮盘奖品"
+  "applyluckywheelprize_label": "应用幸运轮盘奖品",
+  "OverrideCASHMultiplier_label": "覆盖CASH倍数",
+  "cashmultiplierinput_label": "CASH倍数输入"
 }

@@ -532,5 +532,7 @@
   "bypasscasinobans_label": "Casino-Sperren umgehen",
   "alwaysspinluckywheel_label": "Immer Glücksrad drehen",
   "luckywheelprize_label": "Glücksrad-Gewinn",
-  "applyluckywheelprize_label": "Glücksrad-Gewinn anwenden"
+  "applyluckywheelprize_label": "Glücksrad-Gewinn anwenden",
+  "OverrideCASHMultiplier_label": "CASH-Multiplikator überschreiben",
+  "cashmultiplierinput_label": "Eingabe des CASH-Multiplikators"
 }

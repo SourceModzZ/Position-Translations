@@ -533,5 +533,7 @@
   "bypasscasinobans_label": "Bypass Casino Bans",
   "alwaysspinluckywheel_label": "Always Spin Lucky Wheel",
   "luckywheelprize_label": "Lucky Wheel Prize",
-  "applyluckywheelprize_label": "Apply Lucky Wheel Prize"
+  "applyluckywheelprize_label": "Apply Lucky Wheel Prize",
+  "OverrideCASHMultiplier_label": "Override CASH Multiplier",
+  "cashmultiplierinput_label": "Cash Multiplier Input"
 }
