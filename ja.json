@@ -593,5 +593,12 @@
   "FSLSettings_label": "FSL設定",
   "label_street": "通り",
   "label_crossing": "交差点",
-  "label_voicechat": "ボイスチャット"
+  "label_voicechat": "ボイスチャット",
+  "disablecriticalhits": "クリティカルヒットを無効化",
+  "paintballgun_label": "ペイントボールガン",
+  "empgun_label": "EMPガン",
+  "explosionradius": "爆発半径",
+  "explosionradiusscale_label": "爆発半径スケール",
+  "giveplayerallweapon": "プレイヤーに全武器を付与",
+  "infiniteboundary": "ワールド境界を解除"
 }

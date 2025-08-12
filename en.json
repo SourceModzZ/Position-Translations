@@ -594,5 +594,12 @@
   "FSLSettings_label": "FSL Settings",
   "label_street": "Street",
   "label_crossing": "Crossing",
-  "label_voicechat": "Voice Chat"
+  "label_voicechat": "Voice Chat",
+  "disablecriticalhits": "Disable critical hits",
+  "paintballgun_label": "Paintball gun",
+  "empgun_label": "EMP gun",
+  "explosionradius": "Explosion radius",
+  "explosionradiusscale_label": "Explosion radius scale",
+  "giveplayerallweapon": "Give player all weapons",
+  "infiniteboundary": "Remove world boundary"
 }

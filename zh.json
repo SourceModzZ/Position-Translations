@@ -593,5 +593,12 @@
   "FSLSettings_label": "FSL设置",
   "label_street": "街道",
   "label_crossing": "十字路口",
-  "label_voicechat": "语音聊天"
+  "label_voicechat": "语音聊天",
+  "disablecriticalhits": "禁用暴击",
+  "paintballgun_label": "彩弹枪",
+  "empgun_label": "EMP 枪",
+  "explosionradius": "爆炸半径",
+  "explosionradiusscale_label": "爆炸半径比例",
+  "giveplayerallweapon": "给予玩家所有武器",
+  "infiniteboundary": "移除世界边界"
 }

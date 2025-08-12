@@ -593,5 +593,12 @@
   "FSLSettings_label": "Paramètres FSL",
   "label_street": "Rue",
   "label_crossing": "Croisement",
-  "label_voicechat": "Chat Vocal"
+  "label_voicechat": "Chat Vocal",
+  "disablecriticalhits": "Désactiver les coups critiques",
+  "paintballgun_label": "Fusil de paintball",
+  "empgun_label": "Arme EMP",
+  "explosionradius": "Rayon d'explosion",
+  "explosionradiusscale_label": "Échelle du rayon d'explosion",
+  "giveplayerallweapon": "Donner toutes les armes au joueur",
+  "infiniteboundary": "Supprimer la limite du monde"
 }
