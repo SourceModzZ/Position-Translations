@@ -600,5 +600,7 @@
   "explosionradius": "爆発半径",
   "explosionradiusscale_label": "爆発半径スケール",
   "giveplayerallweapon": "プレイヤーに全武器を付与",
-  "infiniteboundary": "ワールド境界を解除"
+  "infiniteboundary": "ワールド境界を解除",
+  "Health/ArmotOverlay_label": "健康/武装オーバーレイの名称"
+
 }

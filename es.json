@@ -600,5 +600,7 @@
   "explosionradius": "Radio de explosión",
   "explosionradiusscale_label": "Escala del radio de explosión",
   "giveplayerallweapon": "Dar todas las armas al jugador",
-  "infiniteboundary": "Eliminar límite del mundo"
+  "infiniteboundary": "Eliminar límite del mundo",
+  "Health/ArmotOverlay_label": "Salud/Denominación de superposición de armamento"
+
 }

@@ -600,5 +600,6 @@
   "explosionradius": "Explosionsradius",
   "explosionradiusscale_label": "Skalierung des Explosionsradius",
   "giveplayerallweapon": "Spieler alle Waffen geben",
-  "infiniteboundary": "Weltgrenze aufheben"
+  "infiniteboundary": "Weltgrenze aufheben",
+  "Health/ArmotOverlay_label": "Gesundheit/Rüstungs-Overlay-Bezeichnung"
 }

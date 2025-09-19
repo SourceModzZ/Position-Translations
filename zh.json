@@ -600,5 +600,7 @@
   "explosionradius": "爆炸半径",
   "explosionradiusscale_label": "爆炸半径比例",
   "giveplayerallweapon": "给予玩家所有武器",
-  "infiniteboundary": "移除世界边界"
+  "infiniteboundary": "移除世界边界",
+  "Health/ArmotOverlay_label": "健康/武裝覆蓋標籤"
+
 }

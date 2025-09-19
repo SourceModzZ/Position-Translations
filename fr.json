@@ -600,5 +600,7 @@
   "explosionradius": "Rayon d'explosion",
   "explosionradiusscale_label": "Échelle du rayon d'explosion",
   "giveplayerallweapon": "Donner toutes les armes au joueur",
-  "infiniteboundary": "Supprimer la limite du monde"
+  "infiniteboundary": "Supprimer la limite du monde",
+  "Health/ArmotOverlay_label": "Santé/Armement - Désignation de superposition"
+
 }

@@ -601,5 +601,6 @@
   "explosionradius": "Explosion radius",
   "explosionradiusscale_label": "Explosion radius scale",
   "giveplayerallweapon": "Give player all weapons",
-  "infiniteboundary": "Remove world boundary"
+  "infiniteboundary": "Remove world boundary",
+  "Health/ArmotOverlay_label": "Health/Armament Overlay Designation"
 }
