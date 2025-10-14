@@ -601,6 +601,11 @@
   "explosionradiusscale_label": "Échelle du rayon d'explosion",
   "giveplayerallweapon": "Donner toutes les armes au joueur",
   "infiniteboundary": "Supprimer la limite du monde",
-  "Health/ArmotOverlay_label": "Santé/Armement - Désignation de superposition"
-
+  "Health/ArmotOverlay_label": "Santé/Armement - Désignation de superposition",
+  "firetrail_label": "Traînée de feu",
+  "autoslap_label": "Gifle automatique",
+  "portalgun_label": "Pistolet à portails",
+  "timestop_label": "Arrêt du temps",
+  "boostpads_label": "Plaques d'accélération",
+  "entityoutliner_label": "Contour des entités"
 }

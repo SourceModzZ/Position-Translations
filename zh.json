@@ -601,6 +601,11 @@
   "explosionradiusscale_label": "爆炸半径比例",
   "giveplayerallweapon": "给予玩家所有武器",
   "infiniteboundary": "移除世界边界",
-  "Health/ArmotOverlay_label": "健康/武裝覆蓋標籤"
-
+  "Health/ArmotOverlay_label": "健康/武裝覆蓋標籤",
+  "firetrail_label": "火焰轨迹",
+  "autoslap_label": "自动巴掌",
+  "portalgun_label": "传送枪",
+  "timestop_label": "时间暂停",
+  "boostpads_label": "加速垫",
+  "entityoutliner_label": "实体轮廓"
 }

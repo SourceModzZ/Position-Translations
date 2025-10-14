@@ -601,5 +601,11 @@
   "explosionradiusscale_label": "Skalierung des Explosionsradius",
   "giveplayerallweapon": "Spieler alle Waffen geben",
   "infiniteboundary": "Weltgrenze aufheben",
-  "Health/ArmotOverlay_label": "Gesundheit/Rüstungs-Overlay-Bezeichnung"
+  "Health/ArmotOverlay_label": "Gesundheit/Rüstungs-Overlay-Bezeichnung",
+  "firetrail_label": "Feuerspur",
+  "autoslap_label": "Auto-Ohrfeige",
+  "portalgun_label": "Portalwaffe",
+  "timestop_label": "Zeitstopp",
+  "boostpads_label": "Boost-Platten",
+  "entityoutliner_label": "Entity-Umriss"
 }

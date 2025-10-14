@@ -602,5 +602,11 @@
   "explosionradiusscale_label": "Explosion radius scale",
   "giveplayerallweapon": "Give player all weapons",
   "infiniteboundary": "Remove world boundary",
-  "Health/ArmotOverlay_label": "Health/Armament Overlay Designation"
+  "Health/ArmotOverlay_label": "Health/Armament Overlay Designation",
+  "firetrail_label": "Fire Trail",
+  "autoslap_label": "Auto Slap",
+  "portalgun_label": "Portal Gun",
+  "timestop_label": "Time Stop",
+  "boostpads_label": "Boost Pads",
+  "entityoutliner_label": "Entity Outliner"
 }

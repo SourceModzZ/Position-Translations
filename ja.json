@@ -601,6 +601,11 @@
   "explosionradiusscale_label": "爆発半径スケール",
   "giveplayerallweapon": "プレイヤーに全武器を付与",
   "infiniteboundary": "ワールド境界を解除",
-  "Health/ArmotOverlay_label": "健康/武装オーバーレイの名称"
-
+  "Health/ArmotOverlay_label": "健康/武装オーバーレイの名称",
+  "firetrail_label": "火の軌跡",
+  "autoslap_label": "自動ビンタ",
+  "portalgun_label": "ポータルガン",
+  "timestop_label": "時間停止",
+  "boostpads_label": "ブーストパッド",
+  "entityoutliner_label": "エンティティ輪郭表示"
 }
