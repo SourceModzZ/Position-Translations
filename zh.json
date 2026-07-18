@@ -670,5 +670,12 @@
   "header_file": "页眉文件",
   "header_folder": "页眉文件夹",
   "header_supported_formats": "支持的文件格式",
-  "header_preview": "页眉预览"
+  "header_preview": "页眉预览",
+  "group_forcefield/magnet": "フォースフィールド / マグネット",
+  "label_magnet": "マグネットを有効化",
+  "label_magnetradius": "マグネットの半径",
+  "label_magnetmagnitude": "マグネットの強度",
+  "label_forcefield": "フォースフィールドを有効化",
+  "label_forcefieldradius": "フォースフィールドの半径",
+  "label_forcefieldmagnitude": "フォースフィールドの強度"
 }

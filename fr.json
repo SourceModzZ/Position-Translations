@@ -670,5 +670,12 @@
   "header_file": "Fichier d'en-tête",
   "header_folder": "Dossier d'en-tête",
   "header_supported_formats": "Formats pris en charge",
-  "header_preview": "Aperçu de l'en-tête"
+  "header_preview": "Aperçu de l'en-tête",
+  "group_forcefield/magnet": "Champ de force / Aimant",
+  "label_magnet": "Activer l'aimant",
+  "label_magnetradius": "Rayon de l'aimant",
+  "label_magnetmagnitude": "Puissance de l'aimant",
+  "label_forcefield": "Activer le champ de force",
+  "label_forcefieldradius": "Rayon du champ de force",
+  "label_forcefieldmagnitude": "Puissance du champ de force"
 }

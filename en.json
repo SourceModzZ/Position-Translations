@@ -671,5 +671,12 @@
   "header_file": "Header File",
   "header_folder": "Header Folder",
   "header_supported_formats": "Supported Formats",
-  "header_preview": "Header Preview"
+  "header_preview": "Header Preview",
+  "group_forcefield/magnet": "Forcefield / Magnet",
+  "label_magnet": "Enable Magnet",
+  "label_magnetradius": "Magnet Radius",
+  "label_magnetmagnitude": "Magnet Magnitude",
+  "label_forcefield": "Enable Forcefield",
+  "label_forcefieldradius": "Forcefield Radius",
+  "label_forcefieldmagnitude": "Forcefield Magnitude"
 }

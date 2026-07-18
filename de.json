@@ -670,5 +670,12 @@
   "header_file": "Header-Datei",
   "header_folder": "Header-Ordner",
   "header_supported_formats": "Unterstützte Formate",
-  "header_preview": "Header-Vorschau"
+  "header_preview": "Header-Vorschau",
+  "group_forcefield/magnet": "Kraftfeld / Magnet",
+  "label_magnet": "Magnet aktivieren",
+  "label_magnetradius": "Magnet-Radius",
+  "label_magnetmagnitude": "Magnet-Stärke",
+  "label_forcefield": "Kraftfeld aktivieren",
+  "label_forcefieldradius": "Kraftfeld-Radius",
+  "label_forcefieldmagnitude": "Kraftfeld-Stärke"
 }

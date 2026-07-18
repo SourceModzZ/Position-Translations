@@ -670,5 +670,12 @@
   "header_file": "Archivo de encabezado",
   "header_folder": "Carpeta de encabezados",
   "header_supported_formats": "Formatos soportados",
-  "header_preview": "Vista previa del encabezado"
+  "header_preview": "Vista previa del encabezado",
+  "group_forcefield/magnet": "Campo de fuerza / Imán",
+  "label_magnet": "Activar imán",
+  "label_magnetradius": "Radio del imán",
+  "label_magnetmagnitude": "Intensidad del imán",
+  "label_forcefield": "Activar campo de fuerza",
+  "label_forcefieldradius": "Radio del campo de fuerza",
+  "label_forcefieldmagnitude": "Intensidad del campo de fuerza"
 }

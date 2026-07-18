@@ -670,5 +670,12 @@
   "header_file": "ヘッダーファイル",
   "header_folder": "ヘッダーフォルダー",
   "header_supported_formats": "対応フォーマット",
-  "header_preview": "ヘッダープレビュー"
+  "header_preview": "ヘッダープレビュー",
+  "group_forcefield/magnet": "フォースフィールド / マグネット",
+  "label_magnet": "マグネットを有効化",
+  "label_magnetradius": "マグネットの半径",
+  "label_magnetmagnitude": "マグネットの強度",
+  "label_forcefield": "フォースフィールドを有効化",
+  "label_forcefieldradius": "フォースフィールドの半径",
+  "label_forcefieldmagnitude": "フォースフィールドの強度"
 }
